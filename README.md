@@ -21,5 +21,3 @@ The jammming app is codeacademy practice project from Front-End Path.
 ## Future
 
 **Note: I plan to improve this functionality of the application not much later.
-# jammming
-# jammming
